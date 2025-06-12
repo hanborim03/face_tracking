@@ -1,0 +1,5 @@
+opencv-python
+retina-face
+insightface
+deep_sort_realtime
+
